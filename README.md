@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JackRocha2
+- 👋 Hi, I’m Jackson Rocha
 - 👀 I’m interested in AI and Big Data 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Big data smart solutions
